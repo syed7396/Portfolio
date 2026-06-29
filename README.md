@@ -31,15 +31,15 @@ A modern and responsive personal portfolio website built using **HTML5, CSS3, an
 
 ### Home
 
-![Hero](screenshots/hero.png)
+![Hero](screenshots/hero.png.png)
 
 ### Projects
 
-![Projects](screenshots/projects.png)
+![Projects](screenshots/projects.png.png)
 
 ### Contact
 
-![Contact](screenshots/contact.png)
+![Contact](screenshots/contact.png.png)
 
 ---
 
@@ -53,13 +53,14 @@ A modern and responsive personal portfolio website built using **HTML5, CSS3, an
 
 ```
 Portfolio/
+│
 ├── index.html
-├── screenshots
-|   ├── hero.png
-|   ├── projects.png
-|   └── contact.png
-|
-└── README.md
+├── README.md
+└── screenshots/
+    ├── hero.png
+    ├── projects.png
+    └── contact.png
+
 ```
 
 ---
