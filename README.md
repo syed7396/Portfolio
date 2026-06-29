@@ -73,4 +73,4 @@ B.Tech – Information Technology
 
 Sreenidhi Institute of Science and Technology (SNIST)
 
-Developed as part of the ApexPlanet Web Development Internship (2026).
+
