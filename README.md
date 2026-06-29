@@ -70,7 +70,9 @@ Portfolio/
 **Syed Adnan**
 
 B.Tech – Information Technology
-
 Sreenidhi Institute of Science and Technology (SNIST)
 
+📧 7989adnan@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/syed13/  
+💻 GitHub: https://github.com/syed7396
 
